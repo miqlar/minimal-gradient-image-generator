@@ -1,0 +1,22 @@
+{
+  "name": "minimal-gradient-image-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miqlar/minimal-gradient-image-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miqlar/minimal-gradient-image-generator/issues"
+  },
+  "homepage": "https://github.com/miqlar/minimal-gradient-image-generator#readme",
+  "dependencies": {
+    "canvas": "^2.6.0"
+  }
+}
